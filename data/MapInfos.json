@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Abandoned Town","order":1,"parentId":0,"scrollX":1480,"scrollY":1133},
+{"id":2,"expanded":true,"name":"Stone Cave","order":2,"parentId":1,"scrollX":1048,"scrollY":795},
+{"id":3,"expanded":false,"name":"Past Battlefield","order":4,"parentId":1,"scrollX":920,"scrollY":1061},
+{"id":4,"expanded":false,"name":"Sewer","order":3,"parentId":2,"scrollX":1000,"scrollY":795},
+{"id":5,"expanded":false,"name":"Transport Route","order":7,"parentId":1,"scrollX":920,"scrollY":645},
+{"id":6,"expanded":false,"name":"Run-down House","order":6,"parentId":1,"scrollX":936,"scrollY":661},
+{"id":7,"expanded":false,"name":"INTRO","order":8,"parentId":0,"scrollX":936,"scrollY":661},
+{"id":8,"expanded":false,"name":"Sewer Cave","order":5,"parentId":3,"scrollX":1296,"scrollY":693}
+]

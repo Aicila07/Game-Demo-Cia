@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Chara1","characterIndex":0,"characterName":"Chara1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Chara1","traits":[],"initialLevel":10,"maxLevel":99,"name":"Zavion","nickname":"Zavion","note":"","profile":""},
+{"id":2,"battlerName":"Chara2","characterIndex":1,"characterName":"Chara1","classId":2,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Chara1","traits":[],"initialLevel":10,"maxLevel":99,"name":"Grace","nickname":"Grace","note":"","profile":""}
+]
